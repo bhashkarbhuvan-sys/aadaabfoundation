@@ -1,0 +1,55 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "events": "Events",
+    "artists": "Artists",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Keeping Culture Alive",
+    "subtitle": "Supporting local artists, celebrating our heritage — from Patna to everywhere.",
+    "cta1": "Explore Events",
+    "cta2": "Join Us"
+  },
+  "about": {
+    "heading": "About Aadaab Foundation",
+    "intro": "Founded in 2024 in Patna, Bihar, Aadaab Foundation is a cultural and artistic initiative dedicated to supporting local artists, preserving our cultural heritage, and giving emerging performers a real stage to grow.",
+    "founder": "Founder",
+    "founderName": "Irshad Siddaqui",
+    "founderBio": "A poet at heart and a medical professional by profession, Irshad writes beautiful Ghazals and believes that art and healing go hand in hand. He founded Aadaab Foundation to create a space where artists from small towns can be seen and heard.",
+    "cofounder": "Co-Founder",
+    "cofounderName": "Bhuvan Bhaskar",
+    "cofounderBio": "A lover of Hindi literature and poetry, Bhuvan runs VideoLozy — an audio and video production company. As a film editor, he brings stories to life on screen and works to give artists a professional platform to perform and grow.",
+    "missionTitle": "Our Mission",
+    "mission": "To support local artists, organise cultural events, and guide young performers from small stages to bigger opportunities.",
+    "visionTitle": "Our Vision",
+    "vision": "A thriving cultural ecosystem where every artist — no matter where they come from — gets a chance to shine."
+  },
+  "events": {
+    "heading": "Our Events",
+    "openMicsTitle": "Open Mics",
+    "openMicsText": "We have successfully organised 30+ Open Mic events across Patna, giving poets, singers, storytellers, and comedians a stage to perform. From 'Chirag Open Mic' to 'Aadaab Adda', each event has been a celebration of raw talent.",
+    "upcomingTitle": "Upcoming: Kavya Mahotsava",
+    "upcomingText": "Kavya Mahotsava is our upcoming Hindi Sahitya event — a grand celebration of Hindi poetry, literature, and storytelling. Stay tuned for the date and venue!",
+    "registerBtn": "Register for Updates"
+  },
+  "artists": {
+    "heading": "Our Artists",
+    "text": "We are proud to support a growing family of local artists — poets, singers, musicians, storytellers, and performers. Want to be featured? Reach out to us!",
+    "joinBtn": "Become a Performer"
+  },
+  "contact": {
+    "heading": "Get in Touch",
+    "text": "Have a question, collaboration idea, or want to perform with us? Drop us a message!",
+    "email": "Email",
+    "followUs": "Follow Us",
+    "name": "Your Name",
+    "message": "Your Message",
+    "send": "Send Message"
+  },
+  "footer": {
+    "rights": "All Rights Reserved.",
+    "madeWith": "Made with love in Patna"
+  }
+}
